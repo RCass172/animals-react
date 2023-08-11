@@ -1,6 +1,6 @@
 This was a react practice project to have a button that when clicked, will show random images of animals. Each image will have a small heart and once image is clicked, this heart will grow in size.
 
-![App UI](src\images\animal.PNG)
+![App UI](src/images/animal.PNG)
 
 This was made in order to practice the following:
 - Using events, such as a click event on the button. Creating an event handler to show each individual animal image.
